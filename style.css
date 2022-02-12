@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+h1{
+    font-size: 7.9em;
+    font-weight: 900;
+    background: linear-gradient(to right, #c0392b, #8e44ad, #2980b9, #27ae60);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
