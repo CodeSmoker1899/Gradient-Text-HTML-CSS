@@ -1,4 +1,4 @@
-# Gradient-Effect-using-HTML-and-CSS
+# Gradient-Text-Effect-using-HTML-and-CSS
 
 ### you can watch the tutorial here: 
 * https://youtu.be/oiIUJJLacFY
